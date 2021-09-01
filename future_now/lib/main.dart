@@ -254,3 +254,4 @@ class _MyJournalPageState extends State<MyJournalPage> {
     );
   }
 }
+
